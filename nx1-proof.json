@@ -1,0 +1,7 @@
+{
+  "schema": "apg-presence/v1",
+  "message": null,
+  "signature": null,
+  "status": "UNSIGNED",
+  "note": "Placeholder only. Never commit private keys, seed phrases, approvals or delegation signatures."
+}
