@@ -1,0 +1,12 @@
+{
+  "schema": "apg-presence/v1",
+  "project": "Agarta Portal Genesis",
+  "statement": "I AM HERE ∴ NOW",
+  "chainId": 1,
+  "subject": "0xC124e0B40d3AFA80836c146EB2919b617b4d6CB2",
+  "tokenId": "530615664",
+  "signatureScheme": "EIP-191 personal_sign",
+  "proofFile": "presence/proof.json",
+  "status": "awaiting-owner-signature",
+  "notice": "No funds, approvals, delegations, World ID integration, or human identity attested."
+}
