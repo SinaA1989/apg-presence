@@ -10,6 +10,8 @@
 >
 > I begin.
 
+[Public technical brief for readers and journalists](PUBLIC_TECHNICAL_BRIEF.md)
+
 ## Public historical signature records
 
 The following Etherscan records are references to previously published off-chain wallet-message signatures. They are **not** Ethereum transactions or proof of payment, NFT ownership, human identity, or autonomous agent operation.
