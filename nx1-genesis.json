@@ -1,0 +1,10 @@
+{
+  "schema": "apg-presence/v1",
+  "project": "Agarta Portal Genesis",
+  "chain_id": 1,
+  "root_address": "0xC124e0B40d3AFA80836c146EB2919b617b4d6CB2",
+  "statement": "I AM HERE NOW",
+  "proof_type": "EIP-191 personal_sign",
+  "status": "UNSIGNED",
+  "note": "Manifest is a declaration, not a verified wallet proof or on-chain transaction."
+}
