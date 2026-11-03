@@ -14,14 +14,14 @@ NONCE = re.compile(r"^[A-Za-z0-9_-]{16,128}$")
 FIELDS = ("APG Presence Proof v1", "Address", "Nonce", "Issued At", "Expires At", "Purpose")
 
 def canonical_message(address, nonce, issued_at, expires_at):
-    return "\\n".join((
+    return "\n".join((
         FIELDS[0], f"Address: {address}", f"Nonce: {nonce}",
         f"Issued At: {issued_at}", f"Expires At: {expires_at}",
         "Purpose: Public proof of ROOT wallet control only; no transactions, approvals or delegation."
-    )).replace("\\n", "\n")
+    ))
 
 def parse_time(s):
-    if not isinstance(s, str) or not re.fullmatch(r"\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z", s):
+    if not isinstance(s, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z", s):
         raise ValueError("Timestamp must use UTC YYYY-MM-DDTHH:MM:SSZ")
     return datetime.strptime(s, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
 
