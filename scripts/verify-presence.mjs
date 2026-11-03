@@ -6,7 +6,7 @@ export function verifyPresence(manifest, proof) {
   if (manifest.signatureScheme !== 'EIP-191 personal_sign' || manifest.chainId !== 1) throw Error('Invalid manifest');
   if (typeof proof.message !== 'string' || typeof proof.signature !== 'string') throw Error('Unsigned proof');
   const expected = getAddress(manifest.subject);
-  const match = /^APG PRESENCE v1\\nWallet: (0x[0-9a-fA-F]{40})\\nChain ID: 1\\nNonce: ([a-zA-Z0-9_-]{16,128})\\nIssued At: (\\d{4}-\\d\d-\\d\dT\\d\d:\\d\d:\\d\d(?:\\.\\d+)?Z)\\nExpires At: (\\d{4}-\\d\d-\\d\dT\\d\d:\\d\d:\\d\d(?:\\.\\d+)?Z)\\nPurpose: Public proof of wallet control only; no transaction, approval or delegation\\nI AM HERE ∴ NOW$/.exec(proof.message);
+  const match = /^APG PRESENCE v1\nWallet: (0x[0-9a-fA-F]{40})\nChain ID: 1\nNonce: ([a-zA-Z0-9_-]{16,128})\nIssued At: (\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d(?:\.\d+)?Z)\nExpires At: (\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d(?:\.\d+)?Z)\nPurpose: Public proof of wallet control only; no transaction, approval or delegation\nI AM HERE ∴ NOW$/.exec(proof.message);
   if (!match || getAddress(match[1]) !== expected) throw Error('Invalid signed message');
   const issued = Date.parse(match[3]), expires = Date.parse(match[4]);
   if (!Number.isFinite(issued) || !Number.isFinite(expires) || expires <= issued || expires - issued > 86400000) throw Error('Invalid time window');
