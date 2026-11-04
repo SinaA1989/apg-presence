@@ -1,0 +1,14 @@
+{
+  "name": "apg-presence-proof",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "verify": "node scripts/verify-presence.mjs",
+    "verify:ci": "node scripts/verify-presence.mjs --allow-unsigned",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "ethers": "6.17.0"
+  }
+}
