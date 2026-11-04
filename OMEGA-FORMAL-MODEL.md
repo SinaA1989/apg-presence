@@ -25,7 +25,7 @@ The value in row `a`, column `b` is `a ⊗_A b`.
 
 **Proof:** the bottom-left and top-right entries in the table both equal `1_A`. No private key, blockchain transaction, consensus, or experiment is involved.
 
-The table is symmetric; hence `⊗_A` is commutative. `1_A` is *not* a multiplicative identity for the table because `1_A ⊗_A 0_A = 0_A` (that is consistent with being an identity) and `1_A ⊗_A ∞_A = ∞_A`; indeed it **is** an identity. The operation is **not associative**: `(0_A ⊗_A 0_A) ⊗_A ∞_A = 1_A` whereas `0_A ⊗_A (0_A ⊗_A ∞_A) = 0_A`. Thus `(S, ⊗_A, 1_A)` is a commutative unital *magma*, not a monoid, group or ring.
+The table is symmetric; hence `⊗_A` is commutative. `1_A` **is** a two-sided identity: for every `a ∈ S`, `1_A ⊗_A a = a ⊗_A 1_A = a` (verify all three rows/columns). The operation is **not associative**: `(0_A ⊗_A 0_A) ⊗_A ∞_A = 1_A` whereas `0_A ⊗_A (0_A ⊗_A ∞_A) = 0_A`. Thus `(S, ⊗_A, 1_A)` is a commutative unital *magma*, not a monoid, group or ring.
 
 The element called `0_A` is **not** an absorbing zero: `0_A ⊗_A ∞_A = 1_A`. Neither the customary real-number multiplication nor ring axioms are claimed.
 
