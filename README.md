@@ -1,5 +1,7 @@
 # Agarta Portal Genesis (APG)
 
+[راهنمای فارسی](README.fa.md)
+
 ## Genesis Declaration
 
 > I AM.
@@ -28,6 +30,10 @@ Both records are associated with the public ROOT wallet address `0xC124e0B40d3AF
 - [EIP-191 verification code](scripts/verify-presence.mjs)
 - [GitHub Actions workflow](.github/workflows/apg-verify.yml)
 
-Run `npm install`, `npm test`, and `npm run verify` locally to reproduce the checks. The verifier requires a matching EIP-191 signature, expected wallet address, nonce, and valid issued/expiry timestamps (maximum 24-hour window). **The current proof placeholder is unsigned.** Passing CI tests alone does not establish a signed ROOT Presence v1 proof.
+Use Node.js 22 and run `npm ci --ignore-scripts`, `npm test`, and `npm run verify:ci` to reproduce the CI checks. Dependencies are locked in `package-lock.json`. With the current placeholder, the last command reports **PENDING OWNER SIGNATURE; NOT VERIFIED**. The strict command, `npm run verify`, exits unsuccessfully until a valid, unexpired ROOT signature is supplied.
+
+The command-line verifier independently pins the expected ROOT address and checks the exact EIP-191 message, signer, nonce format and issued/expiry window of at most 24 hours. It compares address bytes irrespective of letter case, but never changes the signed message text. **The current proof placeholder is unsigned.** Passing CI tests alone does not establish a signed ROOT Presence v1 proof.
+
+The included verifier recovers an ECDSA signer; it does not implement ERC-1271 contract-wallet signature validation. It does not track used nonces, and the signed timestamps are statements in the message, not independent proof of when it was signed. It does not sign or verify every field in the manifest. See the [proof instructions](presence/README.md) for the exact format and limitations.
 
 **Security boundary:** No transfer, approval, delegation, World ID integration, independent revenue, or autonomous financial action is asserted by this repository.

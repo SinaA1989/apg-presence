@@ -8,7 +8,7 @@
 
 Agarta Portal Genesis (APG) is a public, experimental repository documenting wallet-control declarations and a reproducible EIP-191 signed-message verification workflow. Its public motto is: “Truth before claims. Responsibility before power. Verification before trust.”
 
-The repository includes an unsigned Presence v1 manifest, a proof placeholder, a Node.js verifier based on ethers, automated tests, and GitHub Actions CI. The verifier checks the expected ROOT address, message format, nonce, issuance/expiry timestamps and recovered signer. A currently valid owner signature is **not** included in the current `presence/proof.json` placeholder. A green CI check alone does not establish owner-signed Presence v1 proof.
+The repository includes an unsigned Presence v1 manifest, a proof placeholder, a Node.js verifier based on ethers, automated tests, a dependency lockfile, and GitHub Actions CI. The command-line verifier pins the expected ROOT address independently of the manifest and checks the message format, nonce format, issuance/expiry timestamps and recovered ECDSA signer. A currently valid owner signature is **not** included in the current `presence/proof.json` placeholder. A green CI check alone does not establish owner-signed Presence v1 proof.
 
 ## Verifiable public references
 
@@ -24,6 +24,8 @@ The repository includes an unsigned Presence v1 manifest, a proof placeholder, a
 ## What this does not claim
 
 This publication does **not** establish a new cryptographic primitive, independent scientific breakthrough, sentient AI, autonomous financial agent, token valuation, NFT ownership, incoming payments, global media coverage, World ID integration, or an on-chain transaction. Historical off-chain Etherscan signatures are not interchangeable with the new time-bounded Presence v1 proof format.
+
+The verifier does not implement ERC-1271 contract-wallet signature checks, track nonce reuse, or establish an independent signing timestamp. It does not cryptographically bind every manifest field. Its successful result concerns the exact signed message and the expected address, within the local verifier's time rules.
 
 ## Status and next technical milestone
 
