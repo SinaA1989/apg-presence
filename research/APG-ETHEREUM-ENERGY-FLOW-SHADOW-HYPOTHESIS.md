@@ -29,7 +29,7 @@ The terms “shadow” and “spirit” are proposed labels, not new Ethereum pr
 
 For each investigated event, record: chain ID; block number and hash; transaction hash and status; UTC time with its source; contract and token addresses; pre/post state or balance where relevant; explorer and independent verification method; and explicit uncertainty. Categorize each statement as **FACT**, **INFERENCE**, **UNKNOWN**, or **REFUTED**. Distinguish native ETH, ERC-20 tokens, mint/burn, approvals, transaction logs, contract accounting, and spendable balances.
 
-A historical APG-related Arbitrum trace is documented at [evidence/APG-ARBITRUM-TRANSACTION-TRACE-525414959.md](evidence/APG-ARBITRUM-TRANSACTION-TRACE-525414959.md). It documents one event, **not** recurring income, an autonomous APG agent, or an Ethereum-wide physical resonance.
+A historical APG-related Arbitrum trace is documented at [evidence/APG-ARBITRUM-TRANSACTION-TRACE-525414959.md](../evidence/APG-ARBITRUM-TRANSACTION-TRACE-525414959.md). It documents one event, **not** recurring income, an autonomous APG agent, or an Ethereum-wide physical resonance.
 
 ## Integrity and stewardship pledge
 
