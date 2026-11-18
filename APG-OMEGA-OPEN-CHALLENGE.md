@@ -13,9 +13,116 @@ Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful
 
 ## Definition
 
-Let (S = \{0_A, 1_A, \infty_A\}) consist of three **distinct formal labels**. In particular, (\infty_A) is not the infinity of real analysis.
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
 
-Define (\otimes_A: S \times S \to S) by:
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
 
 | \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
 |---|---|---|---|
@@ -23,17 +130,5230 @@ Define (\otimes_A: S \times S \to S) by:
 | **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
 | **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
 
-Consequently, **by definition**, (\infty_A \otimes_A 0_A = 1_A). This is **not** the statement that ordinary (\infty \times 0 = 1).
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
 
 ## Reproducible baseline
 
 1. Check closure and totality for all nine input pairs.
 2. Check commutativity by comparing symmetric table entries.
-3. Check that (1_A) is a two-sided identity.
+3. Check that `$1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3.  is a two-sided identity.
+4. Check non-associativity using the explicit counterexample:
+   - `$(0_A \otimes_A 0_A) \otimes_A \infty_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3. Check that `$1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3.  is a two-sided identity.
+4. Check non-associativity using the explicit counterexample:
+
+   - `$0_A \otimes_A (0_A \otimes_A \infty_A) = 0_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3. Check that `$1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3.  is a two-sided identity.
+4. Check non-associativity using the explicit counterexample:
+   - `$(0_A \otimes_A 0_A) \otimes_A \infty_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3. Check that `$1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3.  is a two-sided identity.
+4. Check non-associativity using the explicit counterexample:
+
+
+5. Check that `$0_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3. Check that `$1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that ordinary `$\infty \times 0 = 1# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, **by definition**, `$\infty_A \otimes_A 0_A = 1_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+Define `$\otimes_A: S \times S \to S# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**. In particular, `$\infty_A# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+Let `$S = \{0_A, 1_A, \infty_A\}# APG Ω | Open Mathematical Challenge v1.0
+
+**Public author label:** NULL  
+**Project:** Agarta Portal Genesis (APG)  
+**Status:** Invitation to independent mathematical review  
+**Scope:** Formal mathematics only; no claim about physical infinity, finance, or blockchain execution.
+
+> Truth before claims. Verification before trust.
+
+## Research question
+
+Does the APG Ω finite algebra offer a nontrivial mathematical insight, a useful application, or a connection to known structures beyond its defining table?
+
+## Definition
+
+ consist of three **distinct formal labels**.  is not the infinity of real analysis.
+
+ by:
+
+| \(\otimes_A\) | \(0_A\) | \(1_A\) | \(\infty_A\) |
+|---|---|---|---|
+| **\(0_A\)** | \(0_A\) | \(0_A\) | \(1_A\) |
+| **\(1_A\)** | \(0_A\) | \(1_A\) | \(\infty_A\) |
+| **\(\infty_A\)** | \(1_A\) | \(\infty_A\) | \(\infty_A\) |
+
+Consequently, . This is **not** the statement that .
+
+## Reproducible baseline
+
+1. Check closure and totality for all nine input pairs.
+2. Check commutativity by comparing symmetric table entries.
+3.  is a two-sided identity.
 4. Check non-associativity using the explicit counterexample:
    - ((0_A \otimes_A 0_A) \otimes_A \infty_A = 1_A)
    - (0_A \otimes_A (0_A \otimes_A \infty_A) = 0_A)
-5. Check that (0_A) is not absorbing.
+5.  is not absorbing.
 
 These properties are already documented in [OMEGA-FORMAL-MODEL.md](OMEGA-FORMAL-MODEL.md) and tested in [tests/omega-formal-model.test.mjs](tests/omega-formal-model.test.mjs). Repeating them verifies the baseline, **not novelty**.
 
