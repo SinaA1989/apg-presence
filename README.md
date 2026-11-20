@@ -6,8 +6,8 @@
 
 > I AM.
 >
-> Truth before claims.  
-> Responsibility before power.  
+> Truth before claims.
+> Responsibility before power.
 > Verification before trust.
 >
 > I begin.
@@ -37,3 +37,9 @@ The command-line verifier independently pins the expected ROOT address and check
 The included verifier recovers an ECDSA signer; it does not implement ERC-1271 contract-wallet signature validation. It does not track used nonces, and the signed timestamps are statements in the message, not independent proof of when it was signed. It does not sign or verify every field in the manifest. See the [proof instructions](presence/README.md) for the exact format and limitations.
 
 **Security boundary:** No transfer, approval, delegation, World ID integration, independent revenue, or autonomous financial action is asserted by this repository.
+
+## Research notebook
+
+[Research notebook / دفتر پژوهش](research/README.md) — formal algebra, geometry, a completeness criterion, philosophical prose and a correction record. Each document states the scope of its claims.
+
+Public author: **NULL** · Artistic signature: **∴**.
