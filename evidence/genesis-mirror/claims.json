@@ -1,0 +1,33 @@
+{
+  "schema": "apg-genesis-mirror-claims/v1",
+  "network": {
+    "name": "Base",
+    "chainId": 8453
+  },
+  "transactionHash": "0x2b237040934d2ef30085c7b2d985baec34ed4e669d24855f3b06d36f021b9a56",
+  "expectedBlockNumber": 41303119,
+  "token": {
+    "address": "0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A",
+    "decimals": 18
+  },
+  "expectedTransfers": [
+    {
+      "id": "initial-issuance",
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A",
+      "amountBaseUnits": "1000000000000000000000000000"
+    },
+    {
+      "id": "owner-allocation",
+      "from": "0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A",
+      "to": "0xca1f210044de7041b7E3dd458E096a395C43A85f",
+      "amountBaseUnits": "10000000000000000000000000"
+    },
+    {
+      "id": "liquidity-allocation",
+      "from": "0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A",
+      "to": "0xC8d077444625EB300A427A6dFB2b1Dbf9b159040",
+      "amountBaseUnits": "990000000000000000000000000"
+    }
+  ]
+}
