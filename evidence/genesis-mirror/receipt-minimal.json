@@ -1,0 +1,42 @@
+{
+  "schema": "apg-genesis-mirror-receipt-snapshot/v1",
+  "source": "https://mainnet.base.org",
+  "observedAt": "2026-11-20T21:34:35Z",
+  "method": "eth_getTransactionReceipt",
+  "chainId": "0x2105",
+  "result": {
+    "status": "0x1",
+    "blockNumber": "0x2763c4f",
+    "blockHash": "0xe370884d3a3505ca699e208a66a2f9f17f50494a2832d1c2ea00a58e99a85072",
+    "transactionHash": "0x2b237040934d2ef30085c7b2d985baec34ed4e669d24855f3b06d36f021b9a56",
+    "logs": [
+      {
+        "address": "0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "0x000000000000000000000000f4f4a7cae7c8e7de89ed5b3356d4df8b7bec866a"
+        ],
+        "data": "0x0000000000000000000000000000000000000000033b2e3c9fd0803ce8000000"
+      },
+      {
+        "address": "0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x000000000000000000000000f4f4a7cae7c8e7de89ed5b3356d4df8b7bec866a",
+          "0x000000000000000000000000ca1f210044de7041b7e3dd458e096a395c43a85f"
+        ],
+        "data": "0x000000000000000000000000000000000000000000084595161401484a000000"
+      },
+      {
+        "address": "0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A",
+        "topics": [
+          "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "0x000000000000000000000000f4f4a7cae7c8e7dE89ED5B3356d4dF8b7BeC866A",
+          "0x000000000000000000000000c8d077444625eb300a427a6dfb2b1dbf9b159040"
+        ],
+        "data": "0x00000000000000000000000000000000000000000332e8a789bc7ef49e000000"
+      }
+    ]
+  }
+}
