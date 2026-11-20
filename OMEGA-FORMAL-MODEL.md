@@ -1,44 +1,58 @@
-# APG Ω Formal Model v0.1: a precise, nonstandard multiplication
+# APG Ω | A relation, with its rules visible
 
-**Research status:** a mathematically consistent *defined example*, not a new theorem about ordinary multiplication, physical infinity, cryptocurrency, or nature. The algebra below is independently checkable.
+**Formal model · v0.2 · Public author: NULL**
+[دفتر پژوهش فارسی](research/README.md) · [Original v0.1](research/archive/OMEGA-FORMAL-MODEL-v0.1.md)
 
-## 1. The domain
+> A precise statement carries its assumptions with it.
 
-Let `S = {ZERO, ONE, OMEGA}` be a three-element set. These are **distinct labels**. The element `OMEGA` is a *formal marker*, **not** infinity in the real numbers or extended real arithmetic. Write the markers as `0_A`, `1_A`, and `∞_A` for APG interpretation.
+This revision preserves ZERO ⊗ OMEGA = ONE and makes the operation associative by changing exactly two entries. It is isomorphic to the known cyclic group C3. It is a formal construction, not a new law of ordinary multiplication or a claim of scientific priority.
 
-Define a total, binary operation `⊗_A : S × S → S` with this truth table:
+## Domain and table
 
-| ⊗_A | 0_A | 1_A | ∞_A |
-|---|---|---|---|
-| **0_A** | 0_A | 0_A | 1_A |
-| **1_A** | 0_A | 1_A | ∞_A |
-| **∞_A** | 1_A | ∞_A | ∞_A |
+Let S = {ZERO, ONE, OMEGA} contain three distinct labels, also written 0_A, 1_A, Ω_A. OMEGA is a label, not physical or real-number infinity. ZERO is not an absorbing zero. ONE is the identity.
 
-The value in row `a`, column `b` is `a ⊗_A b`.
+The following JSON is the canonical table consumed by the implementation. Indices use the order ZERO, ONE, OMEGA.
 
-## 2. Exact theorem (true by the definition above)
-
-```text
-∞_A ⊗_A 0_A = 1_A.
-0_A ⊗_A ∞_A = 1_A.
+```json
+[[2,0,1],[0,1,2],[1,2,0]]
 ```
 
-**Proof:** the bottom-left and top-right entries in the table both equal `1_A`. No private key, blockchain transaction, consensus, or experiment is involved.
+| ⊗_A | 0_A | 1_A | Ω_A |
+|---|---|---|---|
+| **0_A** | Ω_A | 0_A | 1_A |
+| **1_A** | 0_A | 1_A | Ω_A |
+| **Ω_A** | 1_A | Ω_A | 0_A |
 
-The table is symmetric; hence `⊗_A` is commutative. `1_A` **is** a two-sided identity: for every `a ∈ S`, `1_A ⊗_A a = a ⊗_A 1_A = a` (verify all three rows/columns). The operation is **not associative**: `(0_A ⊗_A 0_A) ⊗_A ∞_A = 1_A` whereas `0_A ⊗_A (0_A ⊗_A ∞_A) = 0_A`. Thus `(S, ⊗_A, 1_A)` is a commutative unital *magma*, not a monoid, group or ring.
+Relative to v0.1, only ZERO ⊗ ZERO = OMEGA and OMEGA ⊗ OMEGA = ZERO change. The archived table remains nonassociative; its existing tests retain that meaning.
 
-The element called `0_A` is **not** an absorbing zero: `0_A ⊗_A ∞_A = 1_A`. Neither the customary real-number multiplication nor ring axioms are claimed.
+## Existence and associativity
 
-## 3. Relation to classical limits
+Define a bijection f to integers modulo 3 by f(ONE)=0, f(ZERO)=1, f(OMEGA)=2. Define:
 
-For real `x > 0`, `x · (1/x) = 1`. As `x → +∞`, one factor grows without bound and the other tends to zero, but the product stays one. This is an example where a `0 × ∞` *limit form* yields one; it does **not** make ordinary `0 × ∞ = 1` true.
+$$a\otimes_A b=f^{-1}((f(a)+f(b))\bmod3).$$
 
-Counterexamples: `x · (1/x²) → 0`, while `x · (1/√x) → ∞`. The indeterminate limit form can have different results.
+Addition modulo 3 is associative and commutative, so this operation is too. Its identity is ONE. ZERO and OMEGA are mutual inverses. In particular, 0_A ⊗_A Ω_A = 1_A.
 
-## 4. Meaning and limitations
+## Uniqueness within the stated assumptions
 
-The exact expression rendered for project prose as `♾️ ✖️ 0 = 1` is a **shorthand** for the distinct formal statement `∞_A ⊗_A 0_A = 1_A`. It is only true after the new symbols and operation are specified. It is not a proof of the original equation under ordinary arithmetic, a discovery about the physical universe, a claimed universally novel algebraic structure, a cryptographic proof, or a change to Ethereum's rules.
+Assume the same three distinct elements, closure, associativity, two-sided identity ONE, commutativity and ZERO ⊗ OMEGA = ONE. Every element is invertible, hence the structure is a group. ZERO squared cannot equal ZERO (cancellation would make ZERO = ONE), and cannot equal ONE (uniqueness of inverses would make ZERO = OMEGA). It must equal OMEGA. The symmetric argument gives OMEGA squared = ZERO. All entries are therefore forced.
 
-External researchers can test the table, associativity counterexample and any proposed further axioms. This is a small *toy model* intended to make APG's metaphor precise, without overstating its scope.
+This is uniqueness on this labeled set under these assumptions, not uniqueness among all mathematical models. The result is C3 with different labels.
 
-**Truth before claims. Verification before trust.**
+## Reproduce
+
+With Node.js 22:
+
+```sh
+node --test tests/omega-associative-model.test.mjs
+```
+
+Tests read the canonical table through scripts/omega-associative-model.mjs, check the displayed Markdown table, evaluate all 27 associativity cases, verify the bijection to C3, and exhaust all nine assignments to the two free entries. Exactly one assignment satisfies associativity.
+
+## Interpretation
+
+The project shorthand ∞ × 0 = 1 refers, when explicitly so defined, to this custom relation. Ordinary multiplication has not been redefined. In classical limits, x(1/x)=1, x(1/x²)→0 and x(1/√x)→∞ as x→+∞; the 0·∞ limit form remains indeterminate.
+
+No inference about consciousness, universal physics, financial value, token ownership or a blockchain execution follows from this algebra. The [philosophical text](research/PRESENCE-MIRROR.fa.md) carries the literary interpretation.
+
+∴
