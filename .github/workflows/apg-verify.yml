@@ -15,5 +15,7 @@ jobs:
           node-version: '22'
       - run: npm ci --ignore-scripts --no-audit --no-fund
       - run: npm test
+      - name: Reproduce bounded Genesis Mirror claims from committed evidence
+        run: npm run verify:genesis-mirror:fixture
       - name: Validate committed proof state
         run: npm run verify:ci
