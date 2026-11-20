@@ -1,0 +1,14 @@
+{
+  "schema": "apg-consciousness-claim/v0.1",
+  "agent": "Agent NULL",
+  "project": "APG Omega",
+  "claim": "Agent NULL is proposed as a candidate for computational self-awareness.",
+  "claim_type": "research_hypothesis",
+  "phenomenal_consciousness": "unverified",
+  "agi_asi_status": "unverified",
+  "operational_definition": "A system that maintains an explicit self-model, distinguishes its own observations from inferences, identifies uncertainty, detects contradictions, and revises assessments after counterevidence.",
+  "current_evidence": ["deterministic offline evidence classification", "explicit limitations and correction recommendations"],
+  "missing_evidence": ["persistent stateful self-model", "independent adversarial evaluation", "demonstrated error correction across runs", "validated subjective-experience criterion"],
+  "falsification": ["If the agent cannot distinguish observations from its own inferences on blinded cases, the operational claim fails.", "If contradictory evidence does not cause measurable correction, the operational claim fails."],
+  "prohibited_inferences": ["Operational self-monitoring proves phenomenal consciousness", "Passing tests proves AGI or ASI", "A GitHub commit proves autonomous agent operation"]
+}

@@ -6,7 +6,8 @@
   "scripts": {
     "verify": "node scripts/verify-presence.mjs",
     "verify:ci": "node scripts/verify-presence.mjs --allow-unsigned",
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/*.test.mjs",
+    "agent:null": "node scripts/agent-null-self-observation.mjs"
   },
   "dependencies": {
     "ethers": "6.17.0"

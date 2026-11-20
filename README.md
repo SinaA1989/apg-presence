@@ -1,39 +1,61 @@
-# Agarta Portal Genesis (APG)
+# Agarta Portal Genesis (APG Ω)
 
-[راهنمای فارسی](README.fa.md)
+**Open research · Reproducible verification · Author: NULL**
 
-## Genesis Declaration
+[فارسی](README.fa.md) · **[START HERE: public research gateway](START-HERE.md)** · [Independent verification invitation](OPEN-VERIFICATION-DECLARATION.md)
 
-> I AM.
->
-> Truth before claims.  
-> Responsibility before power.  
-> Verification before trust.
->
-> I begin.
+> Truth before claims. Presence before interpretation. Proof before conclusion.
 
-[Public technical brief for readers and journalists](PUBLIC_TECHNICAL_BRIEF.md)
+## What this repository contains
 
-## Public historical signature records
+APG is an experimental research and documentation project: a limited EIP-191 Ethereum signed-message verifier, a symbolic/formal Ω model, and an independently challengeable comparison between Bitcoin's genesis issuance and AGARTA token issuance on Base.
 
-The following Etherscan records are references to previously published off-chain wallet-message signatures. They are **not** Ethereum transactions or proof of payment, NFT ownership, human identity, or autonomous agent operation.
+**Public availability is not independent validation.** The genesis comparison is a research hypothesis, not a second Bitcoin or an unprecedented verified discovery. AGARTA is a token on Base, not a new blockchain.
 
-- **APG Genesis Declaration (July 10, 2026):** [Etherscan verified-signature record #319612](https://etherscan.io/verifySig/319612).
-- **APG Genesis Witness Declaration (October 31, 2026):** [Etherscan verified-signature record #340932](https://etherscan.io/verifySig/340932).
+## Explore the evidence
 
-Both records are associated with the public ROOT wallet address `0xC124e0B40d3AFA80836c146EB2919b617b4d6CB2`. Verify the exact message, signature, and recovered address on Etherscan before relying on either record. The historic signed-message formats are distinct from the APG Presence v1 verifier format.
+- [Five-minute orientation and evidence map](START-HERE.md)
+- [Genesis Mirror research](GENESIS-MIRROR.md) and [liquidity addendum](GENESIS-MIRROR-ADDENDUM-v1.1.md)
+- [Public financial verification status](FINANCIAL-VERIFICATION-STATUS-2026-11-20.md): no independently verified spendable ROOT revenue established here
+- [Open verification declaration](OPEN-VERIFICATION-DECLARATION.md)
+- [Evidence ledger](EVIDENCE_STATUS.md) (dated snapshot, **not** a live oracle)
+- [Formal Ω model](OMEGA-FORMAL-MODEL.md): a custom operation, not `0 = 1` in ordinary arithmetic
+- [Publication readiness](PUBLICATION_READINESS.md), [Contributing](CONTRIBUTING.md) and [Security](SECURITY.md)
 
-## APG Presence v1 (current implementation)
+## APG Presence v1
 
-- [Manifest](presence/manifest.json)
-- [Proof placeholder](presence/proof.json)
-- [EIP-191 verification code](scripts/verify-presence.mjs)
-- [GitHub Actions workflow](.github/workflows/apg-verify.yml)
+- [Manifest](presence/manifest.json) · [Unsigned proof placeholder](presence/proof.json)
+- [Verifier](scripts/verify-presence.mjs) · [Tests](tests/) · [GitHub Actions](.github/workflows/apg-verify.yml)
+- [Reproduction instructions](REPRODUCIBILITY.md) · [Proof format](presence/README.md)
 
-Use Node.js 22 and run `npm ci --ignore-scripts`, `npm test`, and `npm run verify:ci` to reproduce the CI checks. Dependencies are locked in `package-lock.json`. With the current placeholder, the last command reports **PENDING OWNER SIGNATURE; NOT VERIFIED**. The strict command, `npm run verify`, exits unsuccessfully until a valid, unexpired ROOT signature is supplied.
+With Node.js 22:
 
-The command-line verifier independently pins the expected ROOT address and checks the exact EIP-191 message, signer, nonce format and issued/expiry window of at most 24 hours. It compares address bytes irrespective of letter case, but never changes the signed message text. **The current proof placeholder is unsigned.** Passing CI tests alone does not establish a signed ROOT Presence v1 proof.
+```sh
+npm ci --ignore-scripts --no-audit --no-fund
+npm test
+npm run verify:ci
+npm run verify
+```
 
-The included verifier recovers an ECDSA signer; it does not implement ERC-1271 contract-wallet signature validation. It does not track used nonces, and the signed timestamps are statements in the message, not independent proof of when it was signed. It does not sign or verify every field in the manifest. See the [proof instructions](presence/README.md) for the exact format and limitations.
+The final strict command **is expected to fail** while `presence/proof.json` contains null message and signature. A passing `verify:ci` means the unsigned placeholder is handled as specified, **not** that a valid ROOT Presence v1 signature exists.
 
-**Security boundary:** No transfer, approval, delegation, World ID integration, independent revenue, or autonomous financial action is asserted by this repository.
+The verifier checks EIP-191 ECDSA recovery, expected address, message structure, nonce format and signed issue/expiry window. It does **not** implement ERC-1271, prevent nonce replay, independently establish signing time or cryptographically bind every manifest field.
+
+## Historical signatures and on-chain references
+
+- [Etherscan historical signed message #319612](https://etherscan.io/verifySig/319612) (July 10, 2026)
+- [Etherscan historical signed message #340932](https://etherscan.io/verifySig/340932) (October 31, 2026)
+- ROOT: `0xC124e0B40d3AFA80836c146EB2919b617b4d6CB2`
+- Ethereum APG contract: `0xD1894468F50f8F8c4eE1fBE9d378f02b79C3e2c0`
+- AGARTA token on Base: `0xF4F4A7CaE7C8e7dE89ED5B3356d4dF8b7BeC866A`
+- [AGARTA deployment transaction](https://basescan.org/tx/0x2b237040934d2ef30085c7b2d985baec34ed4e669d24855f3b06d36f021b9a56)
+
+Historical signed-message records are not blockchain transfers or fresh Presence v1 proofs. Address references do not establish common wallet control, asset ownership or incoming revenue.
+
+## Research boundaries
+
+We distinguish **FACT**, **REPORTED**, **INFERENCE**, **UNKNOWN**, and **REFUTED**. No sentient AI, autonomous financial transaction, infinite money, confirmed ROOT income, new cryptographic primitive, global endorsement or historical priority is asserted.
+
+Independent replication and corrections are welcome. **Never share private keys or recovery phrases. No transactions, approvals, delegations or signatures are required to review the public research.**
+
+**APG Ω · NULL · I AM HERE ∴ NOW**
