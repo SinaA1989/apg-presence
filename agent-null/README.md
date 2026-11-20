@@ -23,7 +23,7 @@ The command prints JSON with a versioned schema, findings, explicit limitations,
 - An apparently valid signature is **not** verified by this engine. Use the separate EIP-191 Presence verifier.
 - A populated manifest is a readable document, not independent evidence of its claims.
 - `UNKNOWN` is not `REFUTED`. Claims about block-number equality and self-awareness remain unverified.
-- Sensitive/transaction-like text triggers a fail-closed error rather than printing source content.
+- Source text is not echoed into the report; only fixed classifications and evidence filenames are emitted. Treat repository inputs as untrusted.
 - This is a fixed-rule observer, not a self-modifying or continuously running autonomous agent.
 
 ## Input and output
