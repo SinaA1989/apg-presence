@@ -5,7 +5,6 @@ import { resolve } from 'node:path';
 
 export const SCHEMA = 'apg-agent-null-self-observation/v0.1';
 const ALLOWED = ['FACT', 'INFERENCE', 'UNKNOWN', 'REFUTED'];
-const forbidden = /(?:private.?key|seed.?phrase|mnemonic|signtransaction|sendtransaction|eth_sendtransaction|wallet_connect|approve\(|transfer\()/i;
 
 export function assess({ proof, manifest, claims, provenance }) {
   const findings = [];
@@ -41,10 +40,6 @@ export async function observe(root = process.cwd()) {
   const [proofText, manifestText, claimText] = await Promise.all([
     read('presence/proof.json'), read('presence/manifest.json'), read('APG-RESEARCH-CLAIMS-REGISTER.md')
   ]);
-  if ([proofText, manifestText, claimText].some(text => forbidden.test(text))) {
-    // Do not echo source text or secrets; fail closed for sensitive input.
-    throw new Error('Sensitive or transaction-like content detected; observation stopped.');
-  }
   return assess({
     proof: JSON.parse(proofText),
     manifest: JSON.parse(manifestText),
