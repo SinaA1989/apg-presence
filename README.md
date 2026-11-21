@@ -42,4 +42,8 @@ The included verifier recovers an ECDSA signer; it does not implement ERC-1271 c
 
 [Research notebook / دفتر پژوهش](research/README.md) — formal algebra, geometry, a completeness criterion, philosophical prose and a correction record. Each document states the scope of its claims.
 
+- [Formal mathematical model](OMEGA-FORMAL-MODEL.md): a three-element construction isomorphic to C3.
+- [Runnable three-state example](research/THREE-STATE-CYCLE.md): READY → ACTIVE → REVIEW → READY, with code and tests.
+- [Open invitation to independent review](https://github.com/SinaA1989/apg-presence/issues/15): questions, reproduction instructions and a place to report corrections.
+
 Public author: **NULL** · Artistic signature: **∴**.
