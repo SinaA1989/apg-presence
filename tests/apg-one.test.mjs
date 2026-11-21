@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {assess} from '../research/apg-one/agent.mjs';
+const base={chainId:'1',txHash:'0x'+'a'.repeat(64),recipient:'0xROOT',asset:'TEST',amount:'1',source:'https://example.org/receipt'};
+test('missing evidence stays UNKNOWN',()=>assert.equal(assess({}).status,'UNKNOWN'));
+test('invalid transaction hash rejects record, not underlying transfer',()=>{const x=assess({...base,txHash:'bad'});assert.equal(x.status,'REFUTED');assert.equal(x.spendable,'UNKNOWN')});
+test('failed receipt assertion does not prove failure',()=>assert.equal(assess({...base,receiptStatus:'failed'}).status,'UNKNOWN'));
+test('receipt alone does not prove inbound',()=>assert.equal(assess({...base,receiptStatus:'success'}).status,'UNKNOWN'));
+test('asserted inbound is not verified FACT',()=>{const x=assess({...base,receiptStatus:'success',inboundConfirmed:true});assert.equal(x.status,'UNKNOWN');assert.equal(x.spendable,'UNKNOWN')});
+test('asserted control and balance never imply spendable',()=>assert.equal(assess({...base,receiptStatus:'success',inboundConfirmed:true,currentBalanceConfirmed:true,controlConfirmed:true,transferableConfirmed:true}).spendable,'UNKNOWN'));
