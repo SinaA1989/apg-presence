@@ -7,7 +7,7 @@ export async function verifyErc20Inbound({provider, chainId, txHash, token, reci
   if (!provider || !['getNetwork','getTransactionReceipt','getBlockNumber'].every(k => typeof provider[k] === 'function')) return unknown('No trusted read-only provider');
   if (!/^0x[0-9a-fA-F]{64}$/.test(txHash || '')) return {status:'REFUTED', spendable:'UNKNOWN', reason:'Invalid submitted transaction hash'};
   let tokenAddress, toAddress;
-  try { tokenAddress=getAddress(token); toAddress=getAddress(recipient); }
+  try { tokenAddress=getAddress(token.toLowerCase()); toAddress=getAddress(recipient.toLowerCase()); }
   catch { return {status:'REFUTED', spendable:'UNKNOWN', reason:'Invalid submitted token or recipient address'}; }
   try {
     const network=await provider.getNetwork();
