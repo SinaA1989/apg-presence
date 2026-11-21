@@ -6,7 +6,7 @@ const chainId=42161,txHash='0x'+'a'.repeat(64);
 const token='0x7F6501d3B98eE91f9b9535E4b0ac710Fb0f9e0bc';
 const recipient='0xC124e0B40d3AFA80836c146EB2919b617b4d6CB2';
 const iface=new Interface(['event Transfer(address indexed from,address indexed to,uint256 value)']);
-const event=iface.encodeEventLog(iface.getEvent('Transfer'),['0x0729E2a4716d9f7dD17858d5d504426D228697f7',recipient.toLowerCase(),62302n]);
+const event=iface.encodeEventLog(iface.getEvent('Transfer'),['0x0729e2a4716d9f7dd17858d5d504426d228697f7',recipient.toLowerCase(),62302n]);
 const receipt={status:1,blockNumber:100,logs:[{address:token,topics:event.topics,data:event.data}]};
 const provider=(r=receipt,id=chainId)=>({getNetwork:async()=>({chainId:BigInt(id)}),getTransactionReceipt:async()=>r,getBlockNumber:async()=>110});
 const args={chainId,txHash,token,recipient};
