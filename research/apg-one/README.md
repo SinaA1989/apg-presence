@@ -1,16 +1,16 @@
 # APG ONE v0.1 | Human + AI evidence ethics (research prototype)
 
-**Public author: NULL.** This is a bounded research implementation, not a conscious AI, deployed contract, financial agent, or proof of a unique origin of intelligence.
+**Public author: NULL.** This is a bounded offline research implementation, not a conscious AI, deployed contract, financial agent, or proof of a unique origin of intelligence.
 
 Three principles:
-- **Good thoughts / THINK:** classify supplied records by explicit evidence fields.
-- **Good words / SPEAK:** report FACT, UNKNOWN, REFUTED and missing evidence.
-- **Good deeds / ACT:** perform no signing, approvals, transfers, delegation, wallet access, or network calls.
+- **Good thoughts / THINK:** check the shape of supplied evidence records.
+- **Good words / SPEAK:** distinguish invalid records from unverified claims.
+- **Good deeds / ACT:** no signing, approvals, transfers, delegation, wallet access, or network calls.
 
-Run `node --test tests/apg-one.test.mjs` with Node.js 22. The existing `npm test` also discovers this test.
+Run `node --test tests/apg-one.test.mjs` with Node.js 22. Existing `npm test` also discovers the tests.
 
-Import `assess(record)` from `./agent.mjs`. Inputs are supplied by a human or separate audited read-only fetcher; **the classifier does not independently verify a source URL or receipt**. Therefore FACT here means only that the *supplied fields* assert a successful inbound transfer. Treat results as provisional until externally corroborated. A YES spendable output likewise means all three confirmation flags were supplied, **not that wallet control or transferability was independently tested**.
+Import `assess(record)` from `./agent.mjs`. All inputs are supplied assertions. The module **does not fetch or independently verify transaction receipts, events, balances, control or transferability**. Thus it **never reports FACT or spendable YES**. A malformed transaction hash returns REFUTED **for the submitted record only**, not as proof that a transfer never occurred. Other records remain UNKNOWN until an independently auditable verifier is implemented.
 
-This module is deliberately conservative: missing fields and ambiguous transfers yield UNKNOWN. It does not mutate the repository except when maintainers merge changes, and it does not touch a blockchain. No current ROOT balance or payment is claimed.
+This research code cannot move assets, sign messages or establish ROOT income. No current spendable balance is claimed.
 
 Ethical motto: Truth before claims; responsibility before power; verification before trust.
