@@ -1,6 +1,8 @@
 # APG Evidence Status
 
-Snapshot: 2026-11-05. This is an evidence ledger, not a live oracle.
+Snapshot: 2026-11-05. This is a historical evidence ledger, not a live oracle.
+
+For the repository audit and versioned model map, see [the audit report](AUDIT-2026-11-21.md) and [documentation index](DOCS.md). Historical rows below retain their original scope; no live wallet balance is asserted here.
 
 | Claim | Status | Source and limit |
 |---|---|---|

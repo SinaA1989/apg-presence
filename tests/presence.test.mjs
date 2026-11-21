@@ -95,3 +95,12 @@ test('the verifier rejects a non-finite verification clock', async () => {
   const proof = await signedProof();
   assert.throws(() => verifyPresence(manifest, proof, { ...options, now: NaN }), /Invalid time window/);
 });
+
+test('a correctly signed message with extra trailing text or line endings is not canonical', async () => {
+  const canonical = await signedProof();
+  for (const suffix of ['\n', '\r', '\r\n', '\u2028', '\u2029', ' extra']) {
+    const message = canonical.message + suffix;
+    const proof = { ...canonical, message, signature: await wallet.signMessage(message) };
+    assert.throws(() => verifyPresence(manifest, proof, options), /Invalid signed message/);
+  }
+});
