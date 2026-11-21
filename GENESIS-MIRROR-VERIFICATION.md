@@ -13,6 +13,19 @@ set of machine-readable claims.
 Absence of evidence never becomes `FACT`. An RPC outage never becomes
 `REFUTED`.
 
+Transfer claims require a matching transaction hash, chain ID, block number and
+successful status first. Missing identity fields, missing logs, malformed ABI
+words, nonzero indexed-address padding, or removed logs produce `UNKNOWN` for
+the transfer checks. A supplied well-formed log collection without a matching
+event refutes that match only within the supplied collection. The verifier
+does not authenticate an RPC provider or prove that a supplied snapshot is complete.
+
+CLI exit codes: `0` for all bounded checks matching, `1` for contradictory
+evidence or an execution error, and `2` for incomplete/unknown evidence. Output
+identifies committed-snapshot versus live-rpc mode and the observation timestamp
+when available. Each live RPC request has a 15-second timeout. A fixture success
+means consistency with the committed snapshot, not fresh independent chain verification.
+
 ## Deterministic reproduction
 
 Run:

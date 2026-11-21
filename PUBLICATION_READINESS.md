@@ -4,7 +4,7 @@
 
 - [x] Public repository, English/Persian documentation, historical signature references, technical brief
 - [x] Presence v1 unsigned manifest and proof placeholder
-- [x] EIP-191 verifier, 10 test cases and GitHub Actions workflow (see [REPRODUCIBILITY.md](REPRODUCIBILITY.md))
+- [x] EIP-191 verifier, automated tests and GitHub Actions workflow (see [REPRODUCIBILITY.md](REPRODUCIBILITY.md))
 - [x] APG Ω declaration and precisely defined limited formal algebra (see [OMEGA-FORMAL-MODEL.md](OMEGA-FORMAL-MODEL.md))
 - [x] Evidence-status ledger with independent verification boundaries
 
