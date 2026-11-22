@@ -1,5 +1,7 @@
 # Agarta Portal Genesis (APG)
 
+[Documentation index](DOCS.md) · [Repository audit](AUDIT-2026-11-21.md) · [Contributing](CONTRIBUTING.md)
+
 [راهنمای فارسی](README.fa.md)
 
 ## Genesis Declaration

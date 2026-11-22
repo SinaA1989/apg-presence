@@ -9,6 +9,22 @@ npm run verify:ci
 npm run verify
 ```
 
+Additional bounded checks:
+
+```sh
+node scripts/demo-cycle.mjs
+npm run verify:genesis-mirror:fixture
+```
+
+The current formal algebra is v0.2 (`tests/omega-associative-model.test.mjs`).
+The original v0.1 is archived and deliberately nonassociative
+(`tests/omega-formal-model.test.mjs`). These are different tables, not
+conflicting test results. See [the documentation index](DOCS.md) for both versions.
+
+Genesis Mirror exit code 2 means UNKNOWN/incomplete data; code 1 means
+REFUTED or an execution error. Neither is a positive verification. Fixture mode
+checks a supplied historical snapshot and does not make a live network request.
+
 With the currently committed `presence/proof.json`, `message` and `signature` are null.
 
 - Tests use *public test-only keys*, not ROOT; passing tests confirm behavior under test.

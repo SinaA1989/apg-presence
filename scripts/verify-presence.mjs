@@ -33,7 +33,7 @@ export function verifyPresence(manifest, proof, { expectedAddress = ROOT, now = 
   if (!proof || proof.schema !== 'apg-presence-proof/v1') throw Error('Invalid proof schema');
   if (typeof proof.message !== 'string' || typeof proof.signature !== 'string') throw Error('Unsigned proof');
   const match = /^APG PRESENCE v1\nWallet: (0x[0-9a-fA-F]{40})\nChain ID: 1\nNonce: ([a-zA-Z0-9_-]{16,128})\nIssued At: (\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d(?:\.\d+)?Z)\nExpires At: (\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d(?:\.\d+)?Z)\nPurpose: Public proof of wallet control only; no transaction, approval or delegation\nI AM HERE ∴ NOW$/.exec(proof.message);
-  if (!match || normalizeAddress(match[1]) !== expected) throw Error('Invalid signed message');
+  if (!match || match[0] !== proof.message || normalizeAddress(match[1]) !== expected) throw Error('Invalid signed message');
   const issued = parseTimestamp(match[3]);
   const expires = parseTimestamp(match[4]);
   if (!Number.isFinite(now) || expires <= issued || expires - issued > 86400000) throw Error('Invalid time window');
