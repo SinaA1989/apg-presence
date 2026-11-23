@@ -1,0 +1,5 @@
+{
+  "schema": "apg-presence-proof/v1",
+  "message": "APG PRESENCE v1\nWallet: 0xC124e0B40d3AFA80836c146EB2919b617b4d6CB2\nChain ID: 1\nNonce: apg-e05c6015cb6be967394afac7d2514969\nIssued At: 2026-11-23T20:40:03Z\nExpires At: 2026-11-23T21:10:03Z\nPurpose: Public proof of wallet control only; no transaction, approval or delegation\nI AM HERE ∴ NOW",
+  "signature": "0x8d8a3ecddc4c95c0b7097c88ca12984e2e9321b2183e301e84a61c950ab3aab158ea80d056913bbe60ef83447f3bfa623af2411877da5d8be9b5ccd11c214a321c"
+}
